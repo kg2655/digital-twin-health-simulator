@@ -1,0 +1,5 @@
+{
+  "name": "Digital Twin Health Simulator",
+  "description": "A health simulation tool that predicts future health trends based on lifestyle inputs and provides actionable insights.",
+  "requestFramePermissions": []
+}
