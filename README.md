@@ -163,12 +163,15 @@ npm run dev
 * Dashboard view
    <img width="1916" height="1091" alt="image" src="https://github.com/user-attachments/assets/71719463-32d0-45f4-a18f-6588e30de617" />
 
+
 * Health score display
    <img width="563" height="577" alt="image" src="https://github.com/user-attachments/assets/267a5a8c-e2f2-4c3d-b4ce-24c8a1f50f47" />
 
 
+
 * Simulation graph
   <img width="1105" height="675" alt="image" src="https://github.com/user-attachments/assets/5bd9be5c-4514-4208-8167-125ce341326c" />
+
 
 
 * What-if sliders
